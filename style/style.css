@@ -1,0 +1,14 @@
+html,head,body{
+    height: 100%;
+}
+#root{
+    height: 100%;
+}
+
+.search-query
+{
+    width: fit-content;
+}
+.marker{
+    size: A3;
+}
